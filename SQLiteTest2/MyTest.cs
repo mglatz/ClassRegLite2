@@ -60,6 +60,8 @@ namespace ClassRegLite.Tests
             }
             
             //Console.ReadKey();
+            //mytest has now changed
+
             
 
         }

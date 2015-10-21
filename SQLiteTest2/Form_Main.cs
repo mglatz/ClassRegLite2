@@ -30,7 +30,8 @@ namespace SQLiteTest2
 
 
             MyTest.manCon();
-           //MyTest.insert();s
+           //MyTest.insert();
+           //now I added some stuff heeer 
             
 
         }
